@@ -7,10 +7,10 @@ classify soils according to USCS (Universal Soil Classification System). It also
 natural water content, liquid and plastic limit, and grain size distribution as a function of depth. A .csv file is
 finally obtained with processed results.
 
-At this point, code is written in a functional programming function. The goal is to upgrade behaviour in order to
+At this point, code is written in a functional programming fashion. The goal is to upgrade behaviour in order to
 use OOP and allow for reutilisation of the logic in further stages of development.
 
-# Languages, platforms and technologies
+# Tech Stack
 
 The following languages, platforms and technologies are included in the project:
 
